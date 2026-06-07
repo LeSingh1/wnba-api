@@ -1,0 +1,50 @@
+{
+  "sport": "basketball",
+  "league": "wnba",
+  "date": "20260607",
+  "count": 2,
+  "games": [
+    {
+      "id": "401856970",
+      "name": "Chicago Sky at Toronto Tempo",
+      "shortName": "CHI @ TOR",
+      "date": "2026-06-07T19:00Z",
+      "state": "pre",
+      "status": "6/7 - 3:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
+        "score": "0"
+      },
+      "away": {
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856971",
+      "name": "Portland Fire at Los Angeles Sparks",
+      "shortName": "POR @ LA",
+      "date": "2026-06-07T23:00Z",
+      "state": "pre",
+      "status": "6/7 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "6",
+        "abbr": "LA",
+        "name": "Los Angeles Sparks",
+        "score": "0"
+      },
+      "away": {
+        "id": "132052",
+        "abbr": "POR",
+        "name": "Portland Fire",
+        "score": "0"
+      }
+    }
+  ]
+}
