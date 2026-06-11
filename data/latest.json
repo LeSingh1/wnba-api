@@ -1,48 +1,90 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260610",
-  "count": 2,
+  "date": "20260611",
+  "count": 4,
   "games": [
     {
-      "id": "401856978",
-      "name": "Connecticut Sun at Toronto Tempo",
-      "shortName": "CON @ TOR",
-      "date": "2026-06-10T23:00Z",
+      "id": "401856980",
+      "name": "Chicago Sky at Indiana Fever",
+      "shortName": "CHI @ IND",
+      "date": "2026-06-11T23:00Z",
       "state": "pre",
-      "status": "6/10 - 7:00 PM EDT",
+      "status": "6/11 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       },
       "away": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       }
     },
     {
-      "id": "401856979",
-      "name": "Los Angeles Sparks at Seattle Storm",
-      "shortName": "LA @ SEA",
-      "date": "2026-06-11T02:00Z",
+      "id": "401856981",
+      "name": "New York Liberty at Atlanta Dream",
+      "shortName": "NY @ ATL",
+      "date": "2026-06-11T23:30Z",
       "state": "pre",
-      "status": "6/10 - 10:00 PM EDT",
+      "status": "6/11 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       },
       "away": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856982",
+      "name": "Phoenix Mercury at Dallas Wings",
+      "shortName": "PHX @ DAL",
+      "date": "2026-06-12T01:00Z",
+      "state": "pre",
+      "status": "6/11 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
+        "score": "0"
+      },
+      "away": {
+        "id": "11",
+        "abbr": "PHX",
+        "name": "Phoenix Mercury",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856983",
+      "name": "Las Vegas Aces at Portland Fire",
+      "shortName": "LV @ POR",
+      "date": "2026-06-12T02:00Z",
+      "state": "pre",
+      "status": "6/11 - 10:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "132052",
+        "abbr": "POR",
+        "name": "Portland Fire",
+        "score": "0"
+      },
+      "away": {
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       }
     }
