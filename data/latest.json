@@ -1,90 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260613",
-  "count": 4,
+  "date": "20260614",
+  "count": 2,
   "games": [
     {
-      "id": "401856986",
-      "name": "Indiana Fever at Connecticut Sun",
-      "shortName": "IND @ CON",
-      "date": "2026-06-13T22:00Z",
+      "id": "401856990",
+      "name": "Washington Mystics at New York Liberty",
+      "shortName": "WSH @ NY",
+      "date": "2026-06-14T19:00Z",
       "state": "pre",
-      "status": "6/13 - 6:00 PM EDT",
+      "status": "6/14 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       },
       "away": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       }
     },
     {
-      "id": "401856987",
-      "name": "Minnesota Lynx at Las Vegas Aces",
-      "shortName": "MIN @ LV",
-      "date": "2026-06-14T00:00Z",
+      "id": "401856991",
+      "name": "Atlanta Dream at Toronto Tempo",
+      "shortName": "ATL @ TOR",
+      "date": "2026-06-14T19:00Z",
       "state": "pre",
-      "status": "6/13 - 8:00 PM EDT",
+      "status": "6/14 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401856988",
-      "name": "Dallas Wings at Portland Fire",
-      "shortName": "DAL @ POR",
-      "date": "2026-06-14T00:30Z",
-      "state": "pre",
-      "status": "6/13 - 8:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
-        "score": "0"
-      },
-      "away": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401856989",
-      "name": "Los Angeles Sparks at Phoenix Mercury",
-      "shortName": "LA @ PHX",
-      "date": "2026-06-14T02:00Z",
-      "state": "pre",
-      "status": "6/13 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
-        "score": "0"
-      },
-      "away": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       }
     }
