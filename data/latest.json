@@ -1,69 +1,27 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260615",
-  "count": 3,
+  "date": "20260616",
+  "count": 1,
   "games": [
     {
-      "id": "401856992",
-      "name": "Las Vegas Aces at Dallas Wings",
-      "shortName": "LV @ DAL",
-      "date": "2026-06-16T00:00Z",
+      "id": "401856995",
+      "name": "Toronto Tempo at Indiana Fever",
+      "shortName": "TOR @ IND",
+      "date": "2026-06-16T23:00Z",
       "state": "pre",
-      "status": "6/15 - 8:00 PM EDT",
+      "status": "6/16 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       },
       "away": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401856993",
-      "name": "Portland Fire at Minnesota Lynx",
-      "shortName": "POR @ MIN",
-      "date": "2026-06-16T00:00Z",
-      "state": "pre",
-      "status": "6/15 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
-        "score": "0"
-      },
-      "away": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401856994",
-      "name": "Los Angeles Sparks at Golden State Valkyries",
-      "shortName": "LA @ GS",
-      "date": "2026-06-16T02:00Z",
-      "state": "pre",
-      "status": "6/15 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
-        "score": "0"
-      },
-      "away": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       }
     }
