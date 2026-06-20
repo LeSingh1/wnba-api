@@ -1,69 +1,69 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260619",
+  "date": "20260620",
   "count": 3,
   "games": [
     {
-      "id": "401857003",
-      "name": "Toronto Tempo at Connecticut Sun",
-      "shortName": "TOR @ CON",
-      "date": "2026-06-19T23:30Z",
+      "id": "401857006",
+      "name": "Indiana Fever at Atlanta Dream",
+      "shortName": "IND @ ATL",
+      "date": "2026-06-20T17:00Z",
       "state": "pre",
-      "status": "6/19 - 7:30 PM EDT",
+      "status": "6/20 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       },
       "away": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       }
     },
     {
-      "id": "401857004",
-      "name": "Washington Mystics at New York Liberty",
-      "shortName": "WSH @ NY",
-      "date": "2026-06-19T23:30Z",
+      "id": "401857007",
+      "name": "Seattle Storm at Phoenix Mercury",
+      "shortName": "SEA @ PHX",
+      "date": "2026-06-20T19:00Z",
       "state": "pre",
-      "status": "6/19 - 7:30 PM EDT",
+      "status": "6/20 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
+        "id": "11",
+        "abbr": "PHX",
+        "name": "Phoenix Mercury",
         "score": "0"
       },
       "away": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "14",
+        "abbr": "SEA",
+        "name": "Seattle Storm",
         "score": "0"
       }
     },
     {
-      "id": "401857005",
-      "name": "Minnesota Lynx at Golden State Valkyries",
-      "shortName": "MIN @ GS",
-      "date": "2026-06-20T02:00Z",
+      "id": "401857008",
+      "name": "Chicago Sky at Dallas Wings",
+      "shortName": "CHI @ DAL",
+      "date": "2026-06-21T00:00Z",
       "state": "pre",
-      "status": "6/19 - 10:00 PM EDT",
+      "status": "6/20 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       }
     }
