@@ -1,90 +1,27 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260622",
-  "count": 4,
+  "date": "20260623",
+  "count": 1,
   "games": [
     {
-      "id": "401857012",
-      "name": "Chicago Sky at Connecticut Sun",
-      "shortName": "CHI @ CON",
-      "date": "2026-06-22T23:00Z",
+      "id": "401857016",
+      "name": "New York Liberty at Las Vegas Aces",
+      "shortName": "NY @ LV",
+      "date": "2026-06-24T02:00Z",
       "state": "pre",
-      "status": "6/22 - 7:00 PM EDT",
+      "status": "6/23 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       },
       "away": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857013",
-      "name": "Toronto Tempo at Atlanta Dream",
-      "shortName": "TOR @ ATL",
-      "date": "2026-06-22T23:30Z",
-      "state": "pre",
-      "status": "6/22 - 7:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
-        "score": "0"
-      },
-      "away": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857014",
-      "name": "Phoenix Mercury at Indiana Fever",
-      "shortName": "PHX @ IND",
-      "date": "2026-06-23T00:00Z",
-      "state": "pre",
-      "status": "6/22 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
-        "score": "0"
-      },
-      "away": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857015",
-      "name": "Dallas Wings at Seattle Storm",
-      "shortName": "DAL @ SEA",
-      "date": "2026-06-23T02:00Z",
-      "state": "pre",
-      "status": "6/22 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
-        "score": "0"
-      },
-      "away": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       }
     }
