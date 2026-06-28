@@ -1,69 +1,90 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260627",
-  "count": 3,
+  "date": "20260628",
+  "count": 4,
   "games": [
     {
-      "id": "401857027",
-      "name": "Phoenix Mercury at Toronto Tempo",
-      "shortName": "PHX @ TOR",
-      "date": "2026-06-27T18:00Z",
+      "id": "401857030",
+      "name": "Minnesota Lynx at Dallas Wings",
+      "shortName": "MIN @ DAL",
+      "date": "2026-06-28T18:00Z",
       "state": "pre",
-      "status": "6/27 - 2:00 PM EDT",
+      "status": "6/28 - 2:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     },
     {
-      "id": "401857028",
-      "name": "Los Angeles Sparks at Indiana Fever",
-      "shortName": "LA @ IND",
-      "date": "2026-06-28T00:00Z",
+      "id": "401857031",
+      "name": "Portland Fire at Washington Mystics",
+      "shortName": "POR @ WSH",
+      "date": "2026-06-28T19:00Z",
       "state": "pre",
-      "status": "6/27 - 8:00 PM EDT",
+      "status": "6/28 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       },
       "away": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
+        "id": "132052",
+        "abbr": "POR",
+        "name": "Portland Fire",
         "score": "0"
       }
     },
     {
-      "id": "401857029",
-      "name": "Atlanta Dream at Seattle Storm",
-      "shortName": "ATL @ SEA",
-      "date": "2026-06-28T01:00Z",
+      "id": "401857032",
+      "name": "Las Vegas Aces at Chicago Sky",
+      "shortName": "LV @ CHI",
+      "date": "2026-06-28T20:00Z",
       "state": "pre",
-      "status": "6/27 - 9:00 PM EDT",
+      "status": "6/28 - 4:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       },
       "away": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857033",
+      "name": "New York Liberty at Golden State Valkyries",
+      "shortName": "NY @ GS",
+      "date": "2026-06-28T23:00Z",
+      "state": "pre",
+      "status": "6/28 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       }
     }
