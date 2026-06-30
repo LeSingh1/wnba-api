@@ -1,90 +1,27 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260628",
-  "count": 4,
+  "date": "20260630",
+  "count": 1,
   "games": [
     {
-      "id": "401857030",
-      "name": "Minnesota Lynx at Dallas Wings",
-      "shortName": "MIN @ DAL",
-      "date": "2026-06-28T18:00Z",
+      "id": "401857321",
+      "name": "Las Vegas Aces at New York Liberty",
+      "shortName": "LV @ NY",
+      "date": "2026-06-30T23:00Z",
       "state": "pre",
-      "status": "6/28 - 2:00 PM EDT",
+      "status": "6/30 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
-        "score": "0"
-      },
-      "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857031",
-      "name": "Portland Fire at Washington Mystics",
-      "shortName": "POR @ WSH",
-      "date": "2026-06-28T19:00Z",
-      "state": "pre",
-      "status": "6/28 - 3:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
-        "score": "0"
-      },
-      "away": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857032",
-      "name": "Las Vegas Aces at Chicago Sky",
-      "shortName": "LV @ CHI",
-      "date": "2026-06-28T20:00Z",
-      "state": "pre",
-      "status": "6/28 - 4:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       },
       "away": {
         "id": "17",
         "abbr": "LV",
         "name": "Las Vegas Aces",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857033",
-      "name": "New York Liberty at Golden State Valkyries",
-      "shortName": "NY @ GS",
-      "date": "2026-06-28T23:00Z",
-      "state": "pre",
-      "status": "6/28 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
-        "score": "0"
-      },
-      "away": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
         "score": "0"
       }
     }
