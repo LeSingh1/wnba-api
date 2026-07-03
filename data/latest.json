@@ -1,69 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260702",
-  "count": 3,
+  "date": "20260703",
+  "count": 2,
   "games": [
     {
-      "id": "401857034",
-      "name": "Atlanta Dream at Washington Mystics",
-      "shortName": "ATL @ WSH",
-      "date": "2026-07-02T23:30Z",
+      "id": "401857037",
+      "name": "Minnesota Lynx at New York Liberty",
+      "shortName": "MIN @ NY",
+      "date": "2026-07-03T23:30Z",
       "state": "pre",
-      "status": "7/2 - 7:30 PM EDT",
+      "status": "7/3 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       },
       "away": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     },
     {
-      "id": "401857035",
-      "name": "Dallas Wings at Connecticut Sun",
-      "shortName": "DAL @ CON",
-      "date": "2026-07-03T00:00Z",
+      "id": "401857038",
+      "name": "Chicago Sky at Las Vegas Aces",
+      "shortName": "CHI @ LV",
+      "date": "2026-07-04T02:00Z",
       "state": "pre",
-      "status": "7/2 - 8:00 PM EDT",
+      "status": "7/3 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       },
       "away": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857036",
-      "name": "Seattle Storm at Phoenix Mercury",
-      "shortName": "SEA @ PHX",
-      "date": "2026-07-03T02:00Z",
-      "state": "pre",
-      "status": "7/2 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
-        "score": "0"
-      },
-      "away": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       }
     }
