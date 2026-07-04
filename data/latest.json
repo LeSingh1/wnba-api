@@ -1,48 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260703",
+  "date": "20260704",
   "count": 2,
   "games": [
     {
-      "id": "401857037",
-      "name": "Minnesota Lynx at New York Liberty",
-      "shortName": "MIN @ NY",
-      "date": "2026-07-03T23:30Z",
+      "id": "401857039",
+      "name": "Golden State Valkyries at Atlanta Dream",
+      "shortName": "GS @ ATL",
+      "date": "2026-07-04T17:00Z",
       "state": "pre",
-      "status": "7/3 - 7:30 PM EDT",
+      "status": "7/4 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       }
     },
     {
-      "id": "401857038",
-      "name": "Chicago Sky at Las Vegas Aces",
-      "shortName": "CHI @ LV",
-      "date": "2026-07-04T02:00Z",
+      "id": "401857040",
+      "name": "Portland Fire at Seattle Storm",
+      "shortName": "POR @ SEA",
+      "date": "2026-07-05T01:00Z",
       "state": "pre",
-      "status": "7/3 - 10:00 PM EDT",
+      "status": "7/4 - 9:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "14",
+        "abbr": "SEA",
+        "name": "Seattle Storm",
         "score": "0"
       },
       "away": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
+        "id": "132052",
+        "abbr": "POR",
+        "name": "Portland Fire",
         "score": "0"
       }
     }
