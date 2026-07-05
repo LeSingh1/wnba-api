@@ -1,48 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260704",
+  "date": "20260705",
   "count": 2,
   "games": [
     {
-      "id": "401857039",
-      "name": "Golden State Valkyries at Atlanta Dream",
-      "shortName": "GS @ ATL",
-      "date": "2026-07-04T17:00Z",
+      "id": "401857041",
+      "name": "Dallas Wings at Toronto Tempo",
+      "shortName": "DAL @ TOR",
+      "date": "2026-07-05T19:00Z",
       "state": "pre",
-      "status": "7/4 - 1:00 PM EDT",
+      "status": "7/5 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       },
       "away": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       }
     },
     {
-      "id": "401857040",
-      "name": "Portland Fire at Seattle Storm",
-      "shortName": "POR @ SEA",
-      "date": "2026-07-05T01:00Z",
+      "id": "401857042",
+      "name": "Indiana Fever at Las Vegas Aces",
+      "shortName": "IND @ LV",
+      "date": "2026-07-05T23:00Z",
       "state": "pre",
-      "status": "7/4 - 9:00 PM EDT",
+      "status": "7/5 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       },
       "away": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       }
     }
