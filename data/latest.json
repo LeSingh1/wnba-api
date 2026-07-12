@@ -1,21 +1,21 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260711",
-  "count": 3,
+  "date": "20260712",
+  "count": 4,
   "games": [
     {
-      "id": "401857057",
-      "name": "New York Liberty at Minnesota Lynx",
-      "shortName": "NY @ MIN",
-      "date": "2026-07-11T17:00Z",
+      "id": "401857060",
+      "name": "New York Liberty at Toronto Tempo",
+      "shortName": "NY @ TOR",
+      "date": "2026-07-12T19:00Z",
       "state": "pre",
-      "status": "7/11 - 1:00 PM EDT",
+      "status": "7/12 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       },
       "away": {
@@ -26,33 +26,54 @@
       }
     },
     {
-      "id": "401857059",
-      "name": "Portland Fire at Atlanta Dream",
-      "shortName": "POR @ ATL",
-      "date": "2026-07-11T20:00Z",
+      "id": "401857061",
+      "name": "Seattle Storm at Washington Mystics",
+      "shortName": "SEA @ WSH",
+      "date": "2026-07-12T19:00Z",
       "state": "pre",
-      "status": "7/11 - 4:00 PM EDT",
+      "status": "7/12 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       },
       "away": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
+        "id": "14",
+        "abbr": "SEA",
+        "name": "Seattle Storm",
         "score": "0"
       }
     },
     {
-      "id": "401857058",
-      "name": "Phoenix Mercury at Las Vegas Aces",
-      "shortName": "PHX @ LV",
-      "date": "2026-07-11T22:00Z",
+      "id": "401857062",
+      "name": "Chicago Sky at Dallas Wings",
+      "shortName": "CHI @ DAL",
+      "date": "2026-07-12T23:00Z",
       "state": "pre",
-      "status": "7/11 - 6:00 PM EDT",
+      "status": "7/12 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
+        "score": "0"
+      },
+      "away": {
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857063",
+      "name": "Indiana Fever at Las Vegas Aces",
+      "shortName": "IND @ LV",
+      "date": "2026-07-13T01:00Z",
+      "state": "pre",
+      "status": "7/12 - 9:00 PM EDT",
       "completed": false,
       "home": {
         "id": "17",
@@ -61,9 +82,9 @@
         "score": "0"
       },
       "away": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       }
     }
