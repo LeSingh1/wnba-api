@@ -1,16 +1,37 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260719",
-  "count": 3,
+  "date": "20260720",
+  "count": 4,
   "games": [
     {
-      "id": "401857080",
-      "name": "Los Angeles Sparks at Dallas Wings",
-      "shortName": "LA @ DAL",
-      "date": "2026-07-19T17:00Z",
+      "id": "401857083",
+      "name": "Las Vegas Aces at Toronto Tempo",
+      "shortName": "LV @ TOR",
+      "date": "2026-07-21T00:00Z",
       "state": "pre",
-      "status": "7/19 - 1:00 PM EDT",
+      "status": "7/20 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
+        "score": "0"
+      },
+      "away": {
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401892393",
+      "name": "New York Liberty at Dallas Wings",
+      "shortName": "NY @ DAL",
+      "date": "2026-07-21T00:00Z",
+      "state": "pre",
+      "status": "7/20 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "3",
@@ -19,51 +40,51 @@
         "score": "0"
       },
       "away": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       }
     },
     {
-      "id": "401857081",
-      "name": "Chicago Sky at Atlanta Dream",
-      "shortName": "CHI @ ATL",
-      "date": "2026-07-19T20:00Z",
+      "id": "401857084",
+      "name": "Washington Mystics at Golden State Valkyries",
+      "shortName": "WSH @ GS",
+      "date": "2026-07-21T02:00Z",
       "state": "pre",
-      "status": "7/19 - 4:00 PM EDT",
+      "status": "7/20 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       },
       "away": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       }
     },
     {
-      "id": "401857082",
-      "name": "Connecticut Sun at Phoenix Mercury",
-      "shortName": "CON @ PHX",
-      "date": "2026-07-19T23:00Z",
+      "id": "401857085",
+      "name": "Minnesota Lynx at Seattle Storm",
+      "shortName": "MIN @ SEA",
+      "date": "2026-07-21T02:00Z",
       "state": "pre",
-      "status": "7/19 - 7:00 PM EDT",
+      "status": "7/20 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
+        "id": "14",
+        "abbr": "SEA",
+        "name": "Seattle Storm",
         "score": "0"
       },
       "away": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     }
