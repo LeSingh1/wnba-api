@@ -1,111 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260728",
-  "count": 5,
+  "date": "20260729",
+  "count": 2,
   "games": [
     {
-      "id": "401857092",
-      "name": "Connecticut Sun at Washington Mystics",
-      "shortName": "CON @ WSH",
-      "date": "2026-07-28T23:30Z",
+      "id": "401857097",
+      "name": "Atlanta Dream at Dallas Wings",
+      "shortName": "ATL @ DAL",
+      "date": "2026-07-30T00:00Z",
       "state": "pre",
-      "status": "7/28 - 7:30 PM EDT",
+      "status": "7/29 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       }
     },
     {
-      "id": "401857093",
-      "name": "Toronto Tempo at Minnesota Lynx",
-      "shortName": "TOR @ MIN",
-      "date": "2026-07-29T00:00Z",
+      "id": "401857098",
+      "name": "Golden State Valkyries at Phoenix Mercury",
+      "shortName": "GS @ PHX",
+      "date": "2026-07-30T02:00Z",
       "state": "pre",
-      "status": "7/28 - 8:00 PM EDT",
+      "status": "7/29 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "11",
+        "abbr": "PHX",
+        "name": "Phoenix Mercury",
         "score": "0"
       },
       "away": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857094",
-      "name": "Indiana Fever at Seattle Storm",
-      "shortName": "IND @ SEA",
-      "date": "2026-07-29T01:30Z",
-      "state": "pre",
-      "status": "7/28 - 9:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
-        "score": "0"
-      },
-      "away": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857095",
-      "name": "Portland Fire at Las Vegas Aces",
-      "shortName": "POR @ LV",
-      "date": "2026-07-29T02:00Z",
-      "state": "pre",
-      "status": "7/28 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
-        "score": "0"
-      },
-      "away": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857096",
-      "name": "New York Liberty at Los Angeles Sparks",
-      "shortName": "NY @ LA",
-      "date": "2026-07-29T02:00Z",
-      "state": "pre",
-      "status": "7/28 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
-        "score": "0"
-      },
-      "away": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       }
     }
