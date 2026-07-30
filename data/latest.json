@@ -1,48 +1,69 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260729",
-  "count": 2,
+  "date": "20260730",
+  "count": 3,
   "games": [
     {
-      "id": "401857097",
-      "name": "Atlanta Dream at Dallas Wings",
-      "shortName": "ATL @ DAL",
-      "date": "2026-07-30T00:00Z",
+      "id": "401857099",
+      "name": "Minnesota Lynx at Toronto Tempo",
+      "shortName": "MIN @ TOR",
+      "date": "2026-07-31T00:00Z",
       "state": "pre",
-      "status": "7/29 - 8:00 PM EDT",
+      "status": "7/30 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       },
       "away": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     },
     {
-      "id": "401857098",
-      "name": "Golden State Valkyries at Phoenix Mercury",
-      "shortName": "GS @ PHX",
-      "date": "2026-07-30T02:00Z",
+      "id": "401857100",
+      "name": "Connecticut Sun at Chicago Sky",
+      "shortName": "CON @ CHI",
+      "date": "2026-07-31T00:00Z",
       "state": "pre",
-      "status": "7/29 - 10:00 PM EDT",
+      "status": "7/30 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       },
       "away": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "18",
+        "abbr": "CON",
+        "name": "Connecticut Sun",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857101",
+      "name": "New York Liberty at Las Vegas Aces",
+      "shortName": "NY @ LV",
+      "date": "2026-07-31T02:00Z",
+      "state": "pre",
+      "status": "7/30 - 10:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       }
     }
