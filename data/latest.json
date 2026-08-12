@@ -1,69 +1,69 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260811",
+  "date": "20260812",
   "count": 3,
   "games": [
     {
-      "id": "401857134",
-      "name": "New York Liberty at Indiana Fever",
-      "shortName": "NY @ IND",
-      "date": "2026-08-11T23:30Z",
+      "id": "401857137",
+      "name": "Toronto Tempo at Dallas Wings",
+      "shortName": "TOR @ DAL",
+      "date": "2026-08-13T00:00Z",
       "state": "pre",
-      "status": "8/11 - 7:30 PM EDT",
+      "status": "8/12 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       }
     },
     {
-      "id": "401857135",
-      "name": "Washington Mystics at Las Vegas Aces",
-      "shortName": "WSH @ LV",
-      "date": "2026-08-12T02:00Z",
+      "id": "401857138",
+      "name": "Chicago Sky at Golden State Valkyries",
+      "shortName": "CHI @ GS",
+      "date": "2026-08-13T02:00Z",
       "state": "pre",
-      "status": "8/11 - 10:00 PM EDT",
+      "status": "8/12 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       },
       "away": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       }
     },
     {
-      "id": "401857136",
-      "name": "Phoenix Mercury at Los Angeles Sparks",
-      "shortName": "PHX VS LA",
-      "date": "2026-08-12T02:00Z",
+      "id": "401857139",
+      "name": "Minnesota Lynx at Portland Fire",
+      "shortName": "MIN @ POR",
+      "date": "2026-08-13T02:00Z",
       "state": "pre",
-      "status": "8/11 - 10:00 PM EDT",
+      "status": "8/12 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
+        "id": "132052",
+        "abbr": "POR",
+        "name": "Portland Fire",
         "score": "0"
       },
       "away": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     }
