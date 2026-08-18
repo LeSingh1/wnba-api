@@ -1,27 +1,90 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260817",
-  "count": 1,
+  "date": "20260818",
+  "count": 4,
   "games": [
     {
-      "id": "401857151",
-      "name": "Dallas Wings at Golden State Valkyries",
-      "shortName": "DAL @ GS",
-      "date": "2026-08-18T02:00Z",
+      "id": "401857152",
+      "name": "Los Angeles Sparks at Connecticut Sun",
+      "shortName": "LA @ CON",
+      "date": "2026-08-18T23:00Z",
       "state": "pre",
-      "status": "8/17 - 10:00 PM EDT",
+      "status": "8/18 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "18",
+        "abbr": "CON",
+        "name": "Connecticut Sun",
         "score": "0"
       },
       "away": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "6",
+        "abbr": "LA",
+        "name": "Los Angeles Sparks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857153",
+      "name": "Indiana Fever at Toronto Tempo",
+      "shortName": "IND @ TOR",
+      "date": "2026-08-18T23:00Z",
+      "state": "pre",
+      "status": "8/18 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
+        "score": "0"
+      },
+      "away": {
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857154",
+      "name": "New York Liberty at Chicago Sky",
+      "shortName": "NY @ CHI",
+      "date": "2026-08-19T01:00Z",
+      "state": "pre",
+      "status": "8/18 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857155",
+      "name": "Atlanta Dream at Las Vegas Aces",
+      "shortName": "ATL @ LV",
+      "date": "2026-08-19T01:00Z",
+      "state": "pre",
+      "status": "8/18 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
+        "score": "0"
+      },
+      "away": {
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       }
     }
