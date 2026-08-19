@@ -1,90 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260818",
-  "count": 4,
+  "date": "20260819",
+  "count": 2,
   "games": [
     {
-      "id": "401857152",
-      "name": "Los Angeles Sparks at Connecticut Sun",
-      "shortName": "LA @ CON",
-      "date": "2026-08-18T23:00Z",
+      "id": "401857156",
+      "name": "Toronto Tempo at Washington Mystics",
+      "shortName": "TOR @ WSH",
+      "date": "2026-08-19T23:30Z",
       "state": "pre",
-      "status": "8/18 - 7:00 PM EDT",
+      "status": "8/19 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       },
       "away": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857153",
-      "name": "Indiana Fever at Toronto Tempo",
-      "shortName": "IND @ TOR",
-      "date": "2026-08-18T23:00Z",
-      "state": "pre",
-      "status": "8/18 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
         "id": "131935",
         "abbr": "TOR",
         "name": "Toronto Tempo",
         "score": "0"
-      },
-      "away": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
-        "score": "0"
       }
     },
     {
-      "id": "401857154",
-      "name": "New York Liberty at Chicago Sky",
-      "shortName": "NY @ CHI",
-      "date": "2026-08-19T01:00Z",
+      "id": "401857157",
+      "name": "Minnesota Lynx at Golden State Valkyries",
+      "shortName": "MIN @ GS",
+      "date": "2026-08-20T02:00Z",
       "state": "pre",
-      "status": "8/18 - 9:00 PM EDT",
+      "status": "8/19 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       },
       "away": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857155",
-      "name": "Atlanta Dream at Las Vegas Aces",
-      "shortName": "ATL @ LV",
-      "date": "2026-08-19T01:00Z",
-      "state": "pre",
-      "status": "8/18 - 9:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
-        "score": "0"
-      },
-      "away": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     }
