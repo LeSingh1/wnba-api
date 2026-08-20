@@ -1,48 +1,69 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260819",
-  "count": 2,
+  "date": "20260820",
+  "count": 3,
   "games": [
     {
-      "id": "401857156",
-      "name": "Toronto Tempo at Washington Mystics",
-      "shortName": "TOR @ WSH",
-      "date": "2026-08-19T23:30Z",
+      "id": "401857158",
+      "name": "Indiana Fever at Dallas Wings",
+      "shortName": "IND @ DAL",
+      "date": "2026-08-21T00:00Z",
       "state": "pre",
-      "status": "8/19 - 7:30 PM EDT",
+      "status": "8/20 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       }
     },
     {
-      "id": "401857157",
-      "name": "Minnesota Lynx at Golden State Valkyries",
-      "shortName": "MIN @ GS",
-      "date": "2026-08-20T02:00Z",
+      "id": "401857159",
+      "name": "Connecticut Sun at Las Vegas Aces",
+      "shortName": "CON @ LV",
+      "date": "2026-08-21T02:00Z",
       "state": "pre",
-      "status": "8/19 - 10:00 PM EDT",
+      "status": "8/20 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "18",
+        "abbr": "CON",
+        "name": "Connecticut Sun",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857160",
+      "name": "Atlanta Dream at Los Angeles Sparks",
+      "shortName": "ATL @ LA",
+      "date": "2026-08-21T02:00Z",
+      "state": "pre",
+      "status": "8/20 - 10:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "6",
+        "abbr": "LA",
+        "name": "Los Angeles Sparks",
+        "score": "0"
+      },
+      "away": {
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       }
     }
