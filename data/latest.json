@@ -1,90 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260823",
-  "count": 4,
+  "date": "20260824",
+  "count": 2,
   "games": [
     {
-      "id": "401857167",
-      "name": "Seattle Storm at Dallas Wings",
-      "shortName": "SEA @ DAL",
-      "date": "2026-08-23T20:00Z",
+      "id": "401857171",
+      "name": "Golden State Valkyries at Minnesota Lynx",
+      "shortName": "GS @ MIN",
+      "date": "2026-08-25T00:00Z",
       "state": "pre",
-      "status": "8/23 - 4:00 PM EDT",
+      "status": "8/24 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       },
       "away": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       }
     },
     {
-      "id": "401857168",
-      "name": "Indiana Fever at Chicago Sky",
-      "shortName": "IND @ CHI",
-      "date": "2026-08-23T23:00Z",
+      "id": "401857172",
+      "name": "Atlanta Dream at Los Angeles Sparks",
+      "shortName": "ATL @ LA",
+      "date": "2026-08-25T02:00Z",
       "state": "pre",
-      "status": "8/23 - 7:00 PM EDT",
+      "status": "8/24 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
+        "id": "6",
+        "abbr": "LA",
+        "name": "Los Angeles Sparks",
         "score": "0"
       },
       "away": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857169",
-      "name": "Washington Mystics at Portland Fire",
-      "shortName": "WSH @ POR",
-      "date": "2026-08-23T23:00Z",
-      "state": "pre",
-      "status": "8/23 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
-        "score": "0"
-      },
-      "away": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857170",
-      "name": "Las Vegas Aces at Toronto Tempo",
-      "shortName": "LV @ TOR",
-      "date": "2026-08-23T23:00Z",
-      "state": "pre",
-      "status": "8/23 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
-        "score": "0"
-      },
-      "away": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       }
     }
