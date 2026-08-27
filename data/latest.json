@@ -1,21 +1,21 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260826",
+  "date": "20260827",
   "count": 2,
   "games": [
     {
-      "id": "401857176",
-      "name": "Golden State Valkyries at Connecticut Sun",
-      "shortName": "GS @ CON",
-      "date": "2026-08-26T23:00Z",
+      "id": "401857178",
+      "name": "Golden State Valkyries at New York Liberty",
+      "shortName": "GS @ NY",
+      "date": "2026-08-28T00:00Z",
       "state": "pre",
-      "status": "8/26 - 7:00 PM EDT",
+      "status": "8/27 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       },
       "away": {
@@ -26,23 +26,23 @@
       }
     },
     {
-      "id": "401857177",
-      "name": "Toronto Tempo at Seattle Storm",
-      "shortName": "TOR @ SEA",
-      "date": "2026-08-27T02:00Z",
+      "id": "401857179",
+      "name": "Washington Mystics at Phoenix Mercury",
+      "shortName": "WSH @ PHX",
+      "date": "2026-08-28T02:00Z",
       "state": "pre",
-      "status": "8/26 - 10:00 PM EDT",
+      "status": "8/27 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "11",
+        "abbr": "PHX",
+        "name": "Phoenix Mercury",
         "score": "0"
       },
       "away": {
-        "id": "131935",
-        "abbr": "TOR",
-        "name": "Toronto Tempo",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       }
     }
