@@ -1,90 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260828",
-  "count": 4,
+  "date": "20260829",
+  "count": 2,
   "games": [
     {
-      "id": "401857180",
-      "name": "Portland Fire at Atlanta Dream",
-      "shortName": "POR @ ATL",
-      "date": "2026-08-28T23:30Z",
+      "id": "401857184",
+      "name": "Chicago Sky at New York Liberty",
+      "shortName": "CHI @ NY",
+      "date": "2026-08-29T17:00Z",
       "state": "pre",
-      "status": "8/28 - 7:30 PM EDT",
+      "status": "8/29 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       },
       "away": {
-        "id": "132052",
-        "abbr": "POR",
-        "name": "Portland Fire",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
         "score": "0"
       }
     },
     {
-      "id": "401857181",
-      "name": "Connecticut Sun at Indiana Fever",
-      "shortName": "CON @ IND",
-      "date": "2026-08-28T23:30Z",
+      "id": "401857185",
+      "name": "Toronto Tempo at Phoenix Mercury",
+      "shortName": "TOR @ PHX",
+      "date": "2026-08-30T02:00Z",
       "state": "pre",
-      "status": "8/28 - 7:30 PM EDT",
+      "status": "8/29 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
-        "score": "0"
-      },
-      "away": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857182",
-      "name": "Toronto Tempo at Las Vegas Aces",
-      "shortName": "TOR @ LV",
-      "date": "2026-08-29T02:00Z",
-      "state": "pre",
-      "status": "8/28 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "11",
+        "abbr": "PHX",
+        "name": "Phoenix Mercury",
         "score": "0"
       },
       "away": {
         "id": "131935",
         "abbr": "TOR",
         "name": "Toronto Tempo",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401857183",
-      "name": "Washington Mystics at Los Angeles Sparks",
-      "shortName": "WSH @ LA",
-      "date": "2026-08-29T02:00Z",
-      "state": "pre",
-      "status": "8/28 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "6",
-        "abbr": "LA",
-        "name": "Los Angeles Sparks",
-        "score": "0"
-      },
-      "away": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
         "score": "0"
       }
     }
