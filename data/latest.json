@@ -1,16 +1,16 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260830",
-  "count": 4,
+  "date": "20260917",
+  "count": 5,
   "games": [
     {
-      "id": "401857186",
-      "name": "Minnesota Lynx at Atlanta Dream",
-      "shortName": "MIN @ ATL",
-      "date": "2026-08-30T19:00Z",
+      "id": "401857190",
+      "name": "Connecticut Sun at Atlanta Dream",
+      "shortName": "CON @ ATL",
+      "date": "2026-09-17T23:30Z",
       "state": "pre",
-      "status": "8/30 - 3:00 PM EDT",
+      "status": "9/17 - 7:30 PM EDT",
       "completed": false,
       "home": {
         "id": "20",
@@ -19,24 +19,45 @@
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "18",
+        "abbr": "CON",
+        "name": "Connecticut Sun",
         "score": "0"
       }
     },
     {
-      "id": "401857187",
-      "name": "Los Angeles Sparks at Seattle Storm",
-      "shortName": "LA @ SEA",
-      "date": "2026-08-30T21:00Z",
+      "id": "401857191",
+      "name": "Washington Mystics at Chicago Sky",
+      "shortName": "WSH @ CHI",
+      "date": "2026-09-18T00:00Z",
       "state": "pre",
-      "status": "8/30 - 5:00 PM EDT",
+      "status": "9/17 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "SEA",
-        "name": "Seattle Storm",
+        "id": "19",
+        "abbr": "CHI",
+        "name": "Chicago Sky",
+        "score": "0"
+      },
+      "away": {
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857192",
+      "name": "Los Angeles Sparks at Dallas Wings",
+      "shortName": "LA @ DAL",
+      "date": "2026-09-18T00:00Z",
+      "state": "pre",
+      "status": "9/17 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
@@ -47,12 +68,12 @@
       }
     },
     {
-      "id": "401857188",
-      "name": "Golden State Valkyries at Portland Fire",
-      "shortName": "GS @ POR",
-      "date": "2026-08-30T23:00Z",
+      "id": "401857193",
+      "name": "Phoenix Mercury at Portland Fire",
+      "shortName": "PHX @ POR",
+      "date": "2026-09-18T02:00Z",
       "state": "pre",
-      "status": "8/30 - 7:00 PM EDT",
+      "status": "9/17 - 10:00 PM EDT",
       "completed": false,
       "home": {
         "id": "132052",
@@ -61,30 +82,30 @@
         "score": "0"
       },
       "away": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "11",
+        "abbr": "PHX",
+        "name": "Phoenix Mercury",
         "score": "0"
       }
     },
     {
-      "id": "401857189",
-      "name": "Connecticut Sun at Dallas Wings",
-      "shortName": "CON @ DAL",
-      "date": "2026-08-31T00:30Z",
+      "id": "401857194",
+      "name": "Las Vegas Aces at Seattle Storm",
+      "shortName": "LV @ SEA",
+      "date": "2026-09-18T02:00Z",
       "state": "pre",
-      "status": "8/30 - 8:30 PM EDT",
+      "status": "9/17 - 10:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "14",
+        "abbr": "SEA",
+        "name": "Seattle Storm",
         "score": "0"
       },
       "away": {
-        "id": "18",
-        "abbr": "CON",
-        "name": "Connecticut Sun",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       }
     }
