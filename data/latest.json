@@ -1,63 +1,105 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260919",
-  "count": 3,
+  "date": "20260920",
+  "count": 5,
   "games": [
     {
-      "id": "401857198",
-      "name": "Phoenix Mercury at Dallas Wings",
-      "shortName": "PHX @ DAL",
-      "date": "2026-09-19T17:00Z",
+      "id": "401857201",
+      "name": "Minnesota Lynx at Connecticut Sun",
+      "shortName": "MIN @ CON",
+      "date": "2026-09-20T17:00Z",
       "state": "pre",
-      "status": "9/19 - 1:00 PM EDT",
+      "status": "9/20 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "18",
+        "abbr": "CON",
+        "name": "Connecticut Sun",
         "score": "0"
       },
       "away": {
-        "id": "11",
-        "abbr": "PHX",
-        "name": "Phoenix Mercury",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     },
     {
-      "id": "401857199",
-      "name": "Chicago Sky at Atlanta Dream",
-      "shortName": "CHI @ ATL",
-      "date": "2026-09-19T23:00Z",
+      "id": "401857202",
+      "name": "New York Liberty at Toronto Tempo",
+      "shortName": "NY @ TOR",
+      "date": "2026-09-20T19:00Z",
       "state": "pre",
-      "status": "9/19 - 7:00 PM EDT",
+      "status": "9/20 - 3:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
+        "id": "131935",
+        "abbr": "TOR",
+        "name": "Toronto Tempo",
         "score": "0"
       },
       "away": {
-        "id": "19",
-        "abbr": "CHI",
-        "name": "Chicago Sky",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       }
     },
     {
-      "id": "401857200",
-      "name": "Seattle Storm at Golden State Valkyries",
-      "shortName": "SEA @ GS",
-      "date": "2026-09-20T01:00Z",
+      "id": "401857203",
+      "name": "Washington Mystics at Indiana Fever",
+      "shortName": "WSH @ IND",
+      "date": "2026-09-20T20:00Z",
       "state": "pre",
-      "status": "9/19 - 9:00 PM EDT",
+      "status": "9/20 - 4:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
+        "score": "0"
+      },
+      "away": {
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857204",
+      "name": "Portland Fire at Los Angeles Sparks",
+      "shortName": "POR @ LA",
+      "date": "2026-09-20T23:00Z",
+      "state": "pre",
+      "status": "9/20 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "6",
+        "abbr": "LA",
+        "name": "Los Angeles Sparks",
+        "score": "0"
+      },
+      "away": {
+        "id": "132052",
+        "abbr": "POR",
+        "name": "Portland Fire",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401857205",
+      "name": "Seattle Storm at Las Vegas Aces",
+      "shortName": "SEA @ LV",
+      "date": "2026-09-21T01:00Z",
+      "state": "pre",
+      "status": "9/20 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       },
       "away": {
