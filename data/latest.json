@@ -1,90 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260927",
-  "count": 4,
+  "date": "20260929",
+  "count": 2,
   "games": [
     {
-      "id": "401918014",
-      "name": "New York Liberty at Minnesota Lynx",
-      "shortName": "NY @ MIN",
-      "date": "2026-09-27T18:00Z",
+      "id": "401918018",
+      "name": "Las Vegas Aces at Indiana Fever",
+      "shortName": "LV @ IND",
+      "date": "2026-09-29T22:30Z",
       "state": "pre",
-      "status": "9/27 - 2:00 PM EDT",
+      "status": "9/29 - 6:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
-        "score": "0"
-      },
-      "away": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918015",
-      "name": "Indiana Fever at Las Vegas Aces",
-      "shortName": "IND @ LV",
-      "date": "2026-09-27T20:00Z",
-      "state": "pre",
-      "status": "9/27 - 4:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
-        "score": "0"
-      },
-      "away": {
         "id": "5",
         "abbr": "IND",
         "name": "Indiana Fever",
         "score": "0"
-      }
-    },
-    {
-      "id": "401918013",
-      "name": "Washington Mystics at Atlanta Dream",
-      "shortName": "WSH @ ATL",
-      "date": "2026-09-27T23:00Z",
-      "state": "pre",
-      "status": "9/27 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
-        "score": "0"
       },
       "away": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       }
     },
     {
-      "id": "401918016",
-      "name": "Dallas Wings at Golden State Valkyries",
-      "shortName": "DAL @ GS",
-      "date": "2026-09-28T01:00Z",
+      "id": "401918017",
+      "name": "Minnesota Lynx at New York Liberty",
+      "shortName": "MIN @ NY",
+      "date": "2026-09-30T00:30Z",
       "state": "pre",
-      "status": "9/27 - 9:00 PM EDT",
+      "status": "9/29 - 8:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
         "score": "0"
       },
       "away": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "8",
+        "abbr": "MIN",
+        "name": "Minnesota Lynx",
         "score": "0"
       }
     }
