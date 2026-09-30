@@ -1,48 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260929",
+  "date": "20260930",
   "count": 2,
   "games": [
     {
-      "id": "401918018",
-      "name": "Las Vegas Aces at Indiana Fever",
-      "shortName": "LV @ IND",
-      "date": "2026-09-29T22:30Z",
+      "id": "401918019",
+      "name": "Atlanta Dream at Washington Mystics",
+      "shortName": "ATL @ WSH",
+      "date": "2026-09-30T23:00Z",
       "state": "pre",
-      "status": "9/29 - 6:30 PM EDT",
+      "status": "9/30 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
+        "id": "16",
+        "abbr": "WSH",
+        "name": "Washington Mystics",
         "score": "0"
       },
       "away": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
         "score": "0"
       }
     },
     {
-      "id": "401918017",
-      "name": "Minnesota Lynx at New York Liberty",
-      "shortName": "MIN @ NY",
-      "date": "2026-09-30T00:30Z",
+      "id": "401918020",
+      "name": "Golden State Valkyries at Dallas Wings",
+      "shortName": "GS @ DAL",
+      "date": "2026-10-01T01:00Z",
       "state": "pre",
-      "status": "9/29 - 8:30 PM EDT",
+      "status": "9/30 - 9:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "9",
-        "abbr": "NY",
-        "name": "New York Liberty",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "MIN",
-        "name": "Minnesota Lynx",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       }
     }
