@@ -1,48 +1,27 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20260930",
-  "count": 2,
+  "date": "20261001",
+  "count": 1,
   "games": [
     {
-      "id": "401918019",
-      "name": "Atlanta Dream at Washington Mystics",
-      "shortName": "ATL @ WSH",
-      "date": "2026-09-30T23:00Z",
+      "id": "401918022",
+      "name": "Indiana Fever at Las Vegas Aces",
+      "shortName": "IND @ LV",
+      "date": "2026-10-02T01:00Z",
       "state": "pre",
-      "status": "9/30 - 7:00 PM EDT",
+      "status": "10/1 - 9:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "16",
-        "abbr": "WSH",
-        "name": "Washington Mystics",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       },
       "away": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918020",
-      "name": "Golden State Valkyries at Dallas Wings",
-      "shortName": "GS @ DAL",
-      "date": "2026-10-01T01:00Z",
-      "state": "pre",
-      "status": "9/30 - 9:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
-        "score": "0"
-      },
-      "away": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
+        "id": "5",
+        "abbr": "IND",
+        "name": "Indiana Fever",
         "score": "0"
       }
     }
