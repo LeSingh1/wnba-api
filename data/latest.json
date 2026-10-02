@@ -1,27 +1,27 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20261001",
+  "date": "20261002",
   "count": 1,
   "games": [
     {
-      "id": "401918022",
-      "name": "Indiana Fever at Las Vegas Aces",
-      "shortName": "IND @ LV",
-      "date": "2026-10-02T01:00Z",
+      "id": "401918294",
+      "name": "Dallas Wings at Golden State Valkyries",
+      "shortName": "DAL @ GS",
+      "date": "2026-10-03T01:00Z",
       "state": "pre",
-      "status": "10/1 - 9:00 PM EDT",
+      "status": "10/2 - 9:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "17",
-        "abbr": "LV",
-        "name": "Las Vegas Aces",
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       },
       "away": {
-        "id": "5",
-        "abbr": "IND",
-        "name": "Indiana Fever",
+        "id": "3",
+        "abbr": "DAL",
+        "name": "Dallas Wings",
         "score": "0"
       }
     }
