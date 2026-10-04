@@ -1,16 +1,37 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20261002",
-  "count": 1,
+  "date": "20261004",
+  "count": 2,
   "games": [
     {
-      "id": "401918294",
-      "name": "Dallas Wings at Golden State Valkyries",
-      "shortName": "DAL @ GS",
-      "date": "2026-10-03T01:00Z",
+      "id": "401918295",
+      "name": "New York Liberty at Atlanta Dream",
+      "shortName": "NY @ ATL",
+      "date": "2026-10-04T18:00Z",
       "state": "pre",
-      "status": "10/2 - 9:00 PM EDT",
+      "status": "10/4 - 2:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "NY",
+        "name": "New York Liberty",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401918296",
+      "name": "Las Vegas Aces at Golden State Valkyries",
+      "shortName": "LV @ GS",
+      "date": "2026-10-04T20:00Z",
+      "state": "pre",
+      "status": "10/4 - 4:00 PM EDT",
       "completed": false,
       "home": {
         "id": "129689",
@@ -19,9 +40,9 @@
         "score": "0"
       },
       "away": {
-        "id": "3",
-        "abbr": "DAL",
-        "name": "Dallas Wings",
+        "id": "17",
+        "abbr": "LV",
+        "name": "Las Vegas Aces",
         "score": "0"
       }
     }
