@@ -1,16 +1,16 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20261004",
+  "date": "20261007",
   "count": 2,
   "games": [
     {
-      "id": "401918295",
+      "id": "401918297",
       "name": "New York Liberty at Atlanta Dream",
       "shortName": "NY @ ATL",
-      "date": "2026-10-04T18:00Z",
+      "date": "2026-10-07T23:30Z",
       "state": "pre",
-      "status": "10/4 - 2:00 PM EDT",
+      "status": "10/7 - 7:30 PM EDT",
       "completed": false,
       "home": {
         "id": "20",
@@ -26,12 +26,12 @@
       }
     },
     {
-      "id": "401918296",
+      "id": "401918298",
       "name": "Las Vegas Aces at Golden State Valkyries",
       "shortName": "LV @ GS",
-      "date": "2026-10-04T20:00Z",
+      "date": "2026-10-08T01:30Z",
       "state": "pre",
-      "status": "10/4 - 4:00 PM EDT",
+      "status": "10/7 - 9:30 PM EDT",
       "completed": false,
       "home": {
         "id": "129689",
