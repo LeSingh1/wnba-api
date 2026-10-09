@@ -1,48 +1,48 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20261007",
+  "date": "20261009",
   "count": 2,
   "games": [
     {
-      "id": "401918297",
-      "name": "New York Liberty at Atlanta Dream",
-      "shortName": "NY @ ATL",
-      "date": "2026-10-07T23:30Z",
+      "id": "401918299",
+      "name": "Atlanta Dream at New York Liberty",
+      "shortName": "ATL @ NY",
+      "date": "2026-10-09T23:30Z",
       "state": "pre",
-      "status": "10/7 - 7:30 PM EDT",
+      "status": "10/9 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "ATL",
-        "name": "Atlanta Dream",
-        "score": "0"
-      },
-      "away": {
         "id": "9",
         "abbr": "NY",
         "name": "New York Liberty",
         "score": "0"
+      },
+      "away": {
+        "id": "20",
+        "abbr": "ATL",
+        "name": "Atlanta Dream",
+        "score": "0"
       }
     },
     {
-      "id": "401918298",
-      "name": "Las Vegas Aces at Golden State Valkyries",
-      "shortName": "LV @ GS",
-      "date": "2026-10-08T01:30Z",
+      "id": "401918300",
+      "name": "Golden State Valkyries at Las Vegas Aces",
+      "shortName": "GS @ LV",
+      "date": "2026-10-10T01:30Z",
       "state": "pre",
-      "status": "10/7 - 9:30 PM EDT",
+      "status": "10/9 - 9:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
-        "score": "0"
-      },
-      "away": {
         "id": "17",
         "abbr": "LV",
         "name": "Las Vegas Aces",
+        "score": "0"
+      },
+      "away": {
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       }
     }
