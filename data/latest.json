@@ -1,16 +1,16 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20261017",
+  "date": "20261019",
   "count": 1,
   "games": [
     {
-      "id": "401918305",
+      "id": "401918306",
       "name": "Atlanta Dream at Golden State Valkyries",
       "shortName": "ATL @ GS",
-      "date": "2026-10-17T19:30Z",
+      "date": "2026-10-20T00:00Z",
       "state": "pre",
-      "status": "10/17 - 3:30 PM EDT",
+      "status": "10/19 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "129689",
