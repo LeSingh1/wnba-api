@@ -1,27 +1,27 @@
 {
   "sport": "basketball",
   "league": "wnba",
-  "date": "20261019",
+  "date": "20261021",
   "count": 1,
   "games": [
     {
-      "id": "401918306",
-      "name": "Atlanta Dream at Golden State Valkyries",
-      "shortName": "ATL @ GS",
-      "date": "2026-10-20T00:00Z",
+      "id": "401918307",
+      "name": "Golden State Valkyries at Atlanta Dream",
+      "shortName": "GS @ ATL",
+      "date": "2026-10-22T00:00Z",
       "state": "pre",
-      "status": "10/19 - 8:00 PM EDT",
+      "status": "10/21 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "129689",
-        "abbr": "GS",
-        "name": "Golden State Valkyries",
-        "score": "0"
-      },
-      "away": {
         "id": "20",
         "abbr": "ATL",
         "name": "Atlanta Dream",
+        "score": "0"
+      },
+      "away": {
+        "id": "129689",
+        "abbr": "GS",
+        "name": "Golden State Valkyries",
         "score": "0"
       }
     }
